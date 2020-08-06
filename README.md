@@ -28,6 +28,8 @@ Este é um repositório contendo todos os desafios realizados durante do Bootcam
 - [10 - CRUD no ReactJS](https://github.com/nathaliacristina20/gostack11-challenges/tree/master/desafio-reactjs-crud)
 - [11 - Navegação e filtros no React Native](https://github.com/nathaliacristina20/gostack11-challenges/tree/master/desafio-react-native-delivery)
 
+Para o repositório do **Gobarber**, aplicação desenvolvida durante o curso, [acesse aqui](https://github.com/nathaliacristina20/gostack-gobarber-server).
+
 ## :scroll: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gostack11-challenges/blob/master/LICENSE">LICENSE</a> para mais detalhes.
