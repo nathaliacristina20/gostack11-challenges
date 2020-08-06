@@ -13,7 +13,7 @@ Este é um repositório contendo todos os desafios realizados durante do Bootcam
 - Node.js
 - React
 - React Native
-
+- Typescript
 
 ## Índice dos desafios
 
